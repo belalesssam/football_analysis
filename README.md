@@ -14,10 +14,10 @@ The following modules are used in this project:
 - Speed and distance calculation per player
 
 ## Trained Models
-- [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
+- [Trained Yolo v5](https://app.veo.co/matches/20250426-first-team-vs-afc-telford-united-d9fa44ae/)
 
 ## Sample video
--  [Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
+-  [Sample input video](https://app.veo.co/matches/20250426-first-team-vs-afc-telford-united-d9fa44ae/)
 
 ## Requirements
 To run this project, you need to have the following requirements installed:
